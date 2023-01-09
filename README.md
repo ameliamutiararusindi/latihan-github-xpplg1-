@@ -1,1 +1,3 @@
-# latihan-github-xpplg1-
+nama : Amelia Mutiara Rusindi 
+kelas : X PPLG 1
+I LOVE CODING
