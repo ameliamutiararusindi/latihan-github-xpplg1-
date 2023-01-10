@@ -1,3 +1,5 @@
-nama : Amelia Mutiara Rusindi 
-kelas : X PPLG 1
+nama: Amelia mutiara rusindi
+<br>
+
+kelas: xpplg1
 I LOVE CODING
